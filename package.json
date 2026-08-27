@@ -1,0 +1,32 @@
+{
+  "name": "c-file-validator-vimal",
+  "version": "1.0.0",
+  "description": "CLI tool to strictly validate, compile, and check C source files for errors and warnings.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "c-check": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vimal9RAM-NAP/c-file-validator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Vimal9RAM-NAP/c-file-validator/issues"
+  },
+  "homepage": "https://github.com/Vimal9RAM-NAP/c-file-validator#readme",
+  "keywords": [
+    "c",
+    "validator",
+    "compiler",
+    "gcc",
+    "cli",
+    "developer-tools",
+    "npm"
+  ],
+  "author": "Vimal",
+  "license": "MIT"
+}
