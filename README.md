@@ -1,4 +1,4 @@
-# 🚀 C FILE VALIDATOR
+#  C FILE VALIDATOR
 
 > Strictly validate, compile, and inspect C source files directly from your terminal.
 
