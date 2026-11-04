@@ -1,0 +1,48 @@
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Node.js Dependencies
+node_modules/
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# Logs and Temporary Files
+*.log
+*.tmp
+*.temp
+*.bak
+npm-debug.log*
+
+# Build and Distribution
+dist/
+build/
+coverage/
+
+# C Compiled Files
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# Cache
+.cache/
+.nyc_output/
+
+# Debug Files
+core
+core.*
+*.stackdump
